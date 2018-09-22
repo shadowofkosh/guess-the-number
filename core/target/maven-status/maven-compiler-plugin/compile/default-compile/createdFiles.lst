@@ -1,0 +1,10 @@
+com\oatworks\config\GameConfig.class
+com\oatworks\NumberGenerator.class
+com\oatworks\MinNumber.class
+com\oatworks\GameImpl.class
+com\oatworks\GuessCount.class
+com\oatworks\MaxNumber.class
+com\oatworks\MessageGeneratorImpl.class
+com\oatworks\MessageGenerator.class
+com\oatworks\Game.class
+com\oatworks\NumberGeneratorImpl.class
